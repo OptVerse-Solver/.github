@@ -24,7 +24,7 @@ Our mission is to offer user-friendly tools that complement OptVerse, building a
 | :--- | :--- | :--- |
 | **Installation** | 社区版下载与安装指南 / Community edition & Setup | [前往 / Go](https://github.com/OptVerse-Solver/optverse-release) |
 | **Documentation** | 用户手册与 API 文档 / User Manual & API Reference | [阅读 / Read](https://optverse-user-manual.readthedocs.io/en/latest/) |
-| **Trial Request** | 申请学术试用版 / Apply for an Academic Trial License| [立即申请 / Apply Now](https://optverse.com.cn/#/) |
+| **Trial Request** | 申请学术试用版 / Apply for an Academic Trial License| [立即申请 / Apply Now](https://optverse.com.cn/mp-application/#/) |
 
 ---
 
